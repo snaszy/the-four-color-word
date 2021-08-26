@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2021-02-08 23:39:55 -0700
-categories: jekyll update
+title:  "Start of the Journey"
+date:   2021-08-26
+categories: the odin project
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+So here it is, the start. The biggest and hardest part. I started with `freecampcode`.org and got the juices flowing. Figured out that code was the most important part. Ran through and learning everything in there leassons thinking that would be the hard part. WRONG.
 
-Jekyll requires blog post files to be named according to the following format:
+I started trying to do things on my own and realized I had no idea what I was doing. That is when I started `The Odin Project`. I started witht he basics. My first project was Google Home Page.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+[Google Home Page] ([https://snaszy.github.io/google-homepage/])
 
 Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
