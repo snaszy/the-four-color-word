@@ -9,7 +9,7 @@ So here it is, the start. The biggest and hardest part. I started with `freecamp
 I started trying to do things on my own and realized I had no idea what I was doing. That is when I started `The Odin Project`. I started witht he basics. My first project was Google Home Page. I have it linked to my github account so you can preview it:
 [Google Home Page](https://snaszy.github.io/google-homepage/){:target="_blank"}
 
-![Google Home Page](/assets/google.png)
+![Google Home Page](/assets/google.png){: width="200" }
 
 This is just a static page that is duplicating the look of Google's homepage. No interactivity but maybe later for that.
 
