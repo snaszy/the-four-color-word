@@ -13,4 +13,4 @@ This is just a static page that is duplicating the look of Google's homepage. No
 
 You can see more of my projects on my github account under the username [Snaszy][snaszy-github].
 
-[snaszy-github]: https://snaszy.github.io/google-homepage/
+[snaszy-github]: https://github.com/snaszy
