@@ -6,9 +6,8 @@ categories: the odin project
 ---
 So here it is, the start. The biggest and hardest part. I started with `freecampcode`.org and got the juices flowing. Figured out that code was the most important part. Ran through and learning everything in there leassons thinking that would be the hard part. WRONG.
 
-I started trying to do things on my own and realized I had no idea what I was doing. That is when I started `The Odin Project`. I started witht he basics. My first project was Google Home Page.
-
-[Google Home Page] (https://snaszy.github.io/google-homepage/)
+I started trying to do things on my own and realized I had no idea what I was doing. That is when I started `The Odin Project`. I started witht he basics. My first project was Google Home Page. I have it linked to my github account so you can preview it:
+[Google Home Page](https://snaszy.github.io/google-homepage/)
 
 Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
