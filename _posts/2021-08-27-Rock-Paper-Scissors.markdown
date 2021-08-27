@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "First Challenge"
-date:   2021-08-27
+title:  "Rock Paper Scissors"
+date:   2021-08-28
 categories: the odin project
 ---
 After doing the Google webpage it seemed like I was on my way. That wasnt too bad I told myself. Lets play with come code. This was the first real test. The nice part was that I was displaying the results in the console.

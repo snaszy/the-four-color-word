@@ -1,20 +1,20 @@
 ---
 layout: post
-title:  "First Challenge"
+title:  "Calculator"
 date:   2021-08-27
 categories: the odin project
 ---
-After doing the Google webpage it seemed like I was on my way. That wasnt too bad I told myself. Lets play with come code. This was the first real test. The nice part was that I was displaying the results in the console.
+Well this one was the last of the basics. After learning all the basic structures of javascript this one put us to the test. I have to admit that this was a lot. I spent long nights trying to figure this one out.
 
-I sent the results off to my friends. The biggest complaint... It doesnt work. Even though the title said `Results in the console.log`. As Randy put it, this would be my first experience with user feedback.
+In the end I found that youtube has lots of videos with tutorials to help walk me through these. 
 
-Luckily further on we got to update the display and make it fully functioning. I have the final version available to view:
+I followed one which helped tremendiously. The only issue is after completing it I realized that I had my hand held the whole time. This one I will have to come back to and prove myself again.
 
-[Rock Paper Scissors](https://snaszy.github.io/rock-paper-scissors/){:target="_blank"}
+[Calculator](https://snaszy.github.io/calculator/){:target="_blank"}
 
-![Google Home Page](/the-four-color-word/assets/rockpaperscissors.png){: width="200" }
+![Google Home Page](/the-four-color-word/assets/calculator.png){: width="200" }
 
-The game will let you know who won each round and after 5 rounds will tell you who won over all. Still needs a reset button but refresh will work for now.
+I have to say it is a really nice one. But maybe a little too nice for where I'm at right now.
 
 You can see more of my projects on my github account under the username [Snaszy][snaszy-github].
 

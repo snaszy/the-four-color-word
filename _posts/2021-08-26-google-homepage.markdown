@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Start of the Journey"
+title:  "Google Hompage"
 date:   2021-08-26
 categories: the odin project
 ---
